@@ -11,4 +11,6 @@ Integrantes:
 
 Dileisy Arbelaez Ramirez
 Yurlady Tatiana Arbelaez Castaño
+Karol Yulieth Pacheco Rodriguez
+Yenifer Betancur Garcia
 
