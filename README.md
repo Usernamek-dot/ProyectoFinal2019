@@ -1,10 +1,15 @@
 # ProyectoFinal2019
+
+
+
 Pagina web de egresados del fray Julio tobon betancur
-
 -------------------------------------------------
-Participantes del proyecto:
 
-Dileisy Arbelaez 
-Yurlady  Arbelaez
+Proyecto final tecnica en programacion de software. Pagina web de egresados del la institucion educativa Fray Julio Tobon Betancur - Carmen de Viboral , Antioquia.
+
+Integrantes:
+
+Dileisy Arbelaez Ramirez
+Yurlady Tatiana Arbelaez Castaño
 Yenifer Betancur
-Karol Pacheco
+Karol Yulieth Pacheco Rodriguez
